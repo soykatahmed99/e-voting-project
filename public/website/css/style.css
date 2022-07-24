@@ -1,0 +1,89 @@
+.hero-section
+{
+    height: 550px;
+    background-image: url("../img/31214.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hero-section h1
+{
+    font-size: 60px;
+}
+.h-350{height: 350px;}
+.bg-financial-advisor{background-color: #0a53be;}
+
+.counter-section
+{
+    background-image: url("../img/bg.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.inner-bg
+{
+    background-color: rgba(14,62,127,0.65);
+    height: 100%;
+}
+.fs-60
+{
+    font-size: 60px;
+}
+.bg-experience
+{
+    height: 500px;
+    background-image: url("../img/bg-ex.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.experience-card
+{
+    margin-top: 70px;
+    padding-left: 35px;
+}
+.experience-card h1
+{
+    font-size: 60px;
+    color: #c4d4ea;
+}
+.line
+{
+    width: 100px;
+    height: 3px;
+    background-color: gray;
+    margin-left: 45%;
+}
+.about-card
+{
+    box-shadow: 0px 0px 20px 10px lightgray;
+}
+.team-section
+{
+    background-image: url("../img/Untitled1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.team-body
+{
+    position: absolute;
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    right: 0;
+    padding: 25px;
+}
+.btn-color
+{
+    background-color: #0E3E7f;
+}
+.office-building
+{
+    height: 500px;
+    background-image: url("../img/1092.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

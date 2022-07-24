@@ -1,0 +1,113 @@
+.theme-color
+{
+    background-color: #1abc9c;
+}
+.text-color
+{
+    color: #1abc9c!important;
+}
+.navbar-nav li a:hover
+{
+    color:#1abc9c!important;
+}
+.my-carousel
+{
+    background: rgba(0,0,0,0.52);
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    bottom: 0;
+}
+.my-caption
+{
+    bottom: 170px;
+}
+.carousel-control-prev-icon
+{
+    background-color:#1abc9c;
+    position: absolute;
+    top: 220px;
+    left: 0px;
+    padding: 40px;
+}
+.carousel-control-next-icon
+{
+    background-color:#1abc9c;
+    position: absolute;
+    top: 220px;
+    right: 0px;
+    padding: 40px;
+}
+.feature-card:hover i,
+.feature-card:hover h3
+{
+    color: #1abc9c;
+}
+.new-collection-bg{ background-color: #e9f0fd;}
+.line
+{
+    width: 200px;
+    height: 10px;
+    background-color: #1abc9c;
+    margin-left: 30%;
+}
+.collection-body
+{
+    background-color: red;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+}
+.btn1
+{
+    background-color: #323232;
+    color: white;
+    width: 80%;
+    float: left;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 18px;
+    padding: 10px;
+}
+.btn2
+{
+    background-color: #999999;
+    color: white;
+    width: 20%;
+    float: right;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 18px;
+    padding: 10px;
+}
+.collection-body-hover
+{
+    height: 88.5%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    right: 0;
+    top:0;
+    display:none ;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.card-collection:hover .collection-body-hover
+{
+    display: block;
+}
+.mt-10
+{
+    margin-top: 70px;
+}
+.card-collection:hover .btn1
+{
+    background-color:#1abc9c;
+    color: white;
+}
+.card-collection:hover .btn2
+{
+    background-color: #8ed4c6;
+    color: white;
+}
